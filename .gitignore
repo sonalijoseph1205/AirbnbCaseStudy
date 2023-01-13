@@ -1,3 +1,4 @@
-git config --global core.excludesfile '~/.gitignore'
-echo '.ipynb_checkpoints' >> ~/.gitignore
+# IPython Notebook checkpoint folder
+.ipynb_checkpoints/
+# CSV file
 AB_NYC_2019.csv
